@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 // 1. 定義狀態 (States) - 更新為截圖中的狀態
 typedef enum {
     STATE_SLEEPING,             // 睡覺中
